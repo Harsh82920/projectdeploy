@@ -1,0 +1,39 @@
+
+.article-section {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border: 2px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.article-section h1 {
+  color:rgb(8, 2, 2);
+  margin-top: 0;
+}
+
+.article-section article {
+  margin-bottom: 20px;
+}
+
+.article-section h3 {
+  color: #212121;
+}
+
+.article-section p {
+  color: navy gray;
+  line-height: 1.7;
+}
+
+.fade-in {
+  opacity: 0; /* Initial opacity */
+  transition: opacity 2s; /* Transition effect */
+}
+
+.fade-in.visible {
+  opacity: 1; /* Final opacity */
+}
+
+
+

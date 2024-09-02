@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(2, 26, 2);
+
+}
+.top > p{
+    text-align: center;
+    font-size: 30px;
+    padding: 0px 0px 20px 0px;
+}
+.top > h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.top{
+    height: auto;
+    padding: 80px;
+    background-color: rgb(2, 26, 2);
+    color:beige;
+}
+.cnnt{
+    text-decoration: underline beige;
+    padding-bottom: 80px;
+}
+.mid{
+    height: auto;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 40px;
+    background-color:  rgb(2, 26, 2);
+
+}
+
+.cnnt{
+    font-size: 25px;
+    padding: 2px 12px;
+    color: wheat;
+}    
+.para{
+    font-family:  sans-serif;
+    padding: 0px 12px;
+    color: #fff;
+}
+
+
+ .social{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    top: 50%;
+    left: 20px;
+   justify-content: center;
+    font-size: 50px;
+}
+
+.social div{
+    color: #fff;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.h2{
+    text-align: center;
+    font-weight: bold;
+}
+.tq{
+    height: auto;
+    background-color: rgb(2, 26, 2);
+    color: white;
+    text-align: center;
+    margin:2px ;
+    padding: 10px;
+}
+input{
+    height: 30px;
+    width: 100%;
+    padding: 10px 5px 10px 0px;
+    background-color: rgb(15, 36, 15);
+    border-radius: 3px;
+    color: white;   
+}
+form{
+    background-color: rgb(2, 26, 2);
+    box-sizing: border-box;
+}
+.msg:hover{
+    background-color: hsla(0, 0%, 0%, 0.603);
+    padding: 5px 5px 40px 0px;
+    margin: 6px 0px 10px 0px;
+}
+.name:hover{
+    background-color: hsla(0, 0%, 0%, 0.603);
+    margin: 6px 0px 6px 0px;
+}
+.email:hover{
+    background-color: hsla(0, 0%, 0%, 0.603);
+    margin: 6px 0px 6px 0px;
+}
+.number:hover{
+    background-color: hsla(0, 0%, 0%, 0.603);
+    margin: 6px 0px 6px 0px;
+}
+form h2{
+    color: #fff;
+    background-color: rgb(2, 26, 2);
+    padding: 30px 60px 80px ;
+}
+button{
+    width: 100%;
+    height: auto;
+    padding: 10px ;
+    background-color: rgb(2, 26, 2);
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 2px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.tq{
+    margin: 40px 0px 0px 0px;
+}
+.tq > .para2{
+   font-style: italic;
+   font-size: x-large;
+}
+
